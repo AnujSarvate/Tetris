@@ -1,2 +1,2 @@
-# Tetris
-This is a Tetris game made in assembly
+# Tetris game in Assembly
+This is a Tetris game I created in assembly with many of the features of regular Tetris. These features include sound effects for rotating and placing pieces, having a full set of tetrominoes each having a different colour, having an animation when a full line is completed, and finally a pause game screen and a game over screen. The controls and how to play the game are all in the game file. The game should be set up with 4x4 units in a 64 pixel width by 128 pixel height grid.
